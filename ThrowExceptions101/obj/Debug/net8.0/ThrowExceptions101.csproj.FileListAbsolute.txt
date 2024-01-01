@@ -1,0 +1,14 @@
+C:\Users\Nikhil Arya\Desktop\ThrowExceptions101\bin\Debug\net8.0\ThrowExceptions101.exe
+C:\Users\Nikhil Arya\Desktop\ThrowExceptions101\bin\Debug\net8.0\ThrowExceptions101.deps.json
+C:\Users\Nikhil Arya\Desktop\ThrowExceptions101\bin\Debug\net8.0\ThrowExceptions101.runtimeconfig.json
+C:\Users\Nikhil Arya\Desktop\ThrowExceptions101\bin\Debug\net8.0\ThrowExceptions101.dll
+C:\Users\Nikhil Arya\Desktop\ThrowExceptions101\bin\Debug\net8.0\ThrowExceptions101.pdb
+C:\Users\Nikhil Arya\Desktop\ThrowExceptions101\obj\Debug\net8.0\ThrowExceptions101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikhil Arya\Desktop\ThrowExceptions101\obj\Debug\net8.0\ThrowExceptions101.AssemblyInfoInputs.cache
+C:\Users\Nikhil Arya\Desktop\ThrowExceptions101\obj\Debug\net8.0\ThrowExceptions101.AssemblyInfo.cs
+C:\Users\Nikhil Arya\Desktop\ThrowExceptions101\obj\Debug\net8.0\ThrowExceptions101.csproj.CoreCompileInputs.cache
+C:\Users\Nikhil Arya\Desktop\ThrowExceptions101\obj\Debug\net8.0\ThrowExceptions101.dll
+C:\Users\Nikhil Arya\Desktop\ThrowExceptions101\obj\Debug\net8.0\refint\ThrowExceptions101.dll
+C:\Users\Nikhil Arya\Desktop\ThrowExceptions101\obj\Debug\net8.0\ThrowExceptions101.pdb
+C:\Users\Nikhil Arya\Desktop\ThrowExceptions101\obj\Debug\net8.0\ThrowExceptions101.genruntimeconfig.cache
+C:\Users\Nikhil Arya\Desktop\ThrowExceptions101\obj\Debug\net8.0\ref\ThrowExceptions101.dll
